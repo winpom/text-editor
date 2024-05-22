@@ -1,5 +1,5 @@
 # JATE Text Editor
-![Live Site URL](https://text-editor-4fwj.onrender.com/)
+[Live Site URL](https://text-editor-4fwj.onrender.com/)
 
 ## Description
 
